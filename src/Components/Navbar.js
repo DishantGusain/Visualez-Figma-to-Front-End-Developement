@@ -5,14 +5,14 @@ import TopBar from "./Topbar";
 
 export default function NavBar() {
   return (
-    <div className="top-0 z-50 fixed Aeonik  backdrop-filter backdrop-blur-3xl shadow md:shadow-none bg-white/60 w-full transition duration-700">
+    <div className="top-0 z-50 fixed   backdrop-filter backdrop-blur-3xl shadow md:shadow-none bg-white/60 w-full transition duration-700">
       <TopBar />
       <div className="flex justify-between items-center w-full  z-50  px-4 md:px-16 py-5">
-        <div className="md:flex    items-center ">
+        <div className="md:flex   cursor-pointer  items-center ">
           {/* <a href="/">
             <img src={logo} alt="Logo" className="md:w-72 w-32" />
           </a> */}
-          <h1 className="text-4xl md:text-7xl AeonikBold text-[#3295DC]">VISUALEZ</h1>
+          <h1 className="text-4xl md:text-7xl  font-bold text-[#3295DC]">VISUALEZ</h1>
         </div>
 
         <div className="md:flex hidden items-center space-x-[72px] text-black text-xs xl:text-2xl">

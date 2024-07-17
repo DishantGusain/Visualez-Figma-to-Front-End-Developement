@@ -15,16 +15,6 @@
 
 
 @font-face {
-    font-family: AeonikLight;
-    src: url(../src/fonts/AeonikLight.otf);
-}
-
-.AeonikLight {
-    font-family: AeonikLight;
-}
-
-
-@font-face {
     font-family: AeonikBold;
     src: url(../src/fonts/AeonikBold.otf);
 }

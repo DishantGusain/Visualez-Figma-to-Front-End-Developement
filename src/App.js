@@ -5,7 +5,7 @@ import Solution from "./Components/Solution";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App Aeonik ">
       <NavBar />
       <Hero />
       <Solution />
@@ -29,7 +29,7 @@ function App() {
             I'm a highly skilled Full Stack developer with 3 years of
             professional experience specializing in Front-End development. Being
             new on Upwork, i am eager to build a great profile and I would be
-            immensely grateful for this opportunity. <a className="text-[#3295DC]" target="_blank" href="https://www.upwork.com/freelancers/~01dc1740c4a496b609?mp_source=share">- Dishant Gusain</a>
+            immensely grateful for this opportunity. <a className="text-blue-600" target="_blank" href="https://www.upwork.com/freelancers/~01dc1740c4a496b609?mp_source=share">- Dishant Gusain</a>
           </p>
 
          

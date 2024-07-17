@@ -38,7 +38,7 @@ export default () => {
   };
 
   return (
-    <div className="w-full md:px-0 px-4 Aeonik pt-20 pb-64 bg-white">
+    <div className="w-full md:px-0 px-4  pt-20 pb-64 bg-white">
       <div className="md:flex justify-center items-center md:px-16">
         <div className="md:w-3/12">
           {buttons.map((button) => (
